@@ -1,0 +1,130 @@
+/*body {
+        background: url('../img/') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        color: rgb(10, 10, 10);
+      }*/
+      .featured-row {
+       text-align:center;
+       background-color:white;
+       min-height:200px;
+       padding:55px 0;
+       border-bottom: 1px solid #EEE;
+     }
+     
+     .white {
+       color: white !important;
+     }
+     .blue {
+       background: #698AC8;
+     }
+     
+     .largo {
+       width: 100%;
+     }
+     .center {
+       text-align: center;
+     }
+     .left {
+       padding-left: 125px;
+     }
+     .justify {
+       text-align: justify;
+     }
+     .navbar-inverse {
+        background-color: rgba(0, 0, 0, 0.4) !important;
+        border-color: rgba(0, 0, 0, 0.4) !important;
+      }
+     .navbar-inverse .navbar-brand, .navbar-brand:hover {
+       color: white;
+     }
+     .nameproject {
+       font-family: 'Aguafina Script', cursive;
+       font-weight: 200;
+       font-size: 1.4em;
+     }
+     .namemarketing {
+       font-family: 'Aguafina Script', cursive;
+       font-weight: 300;
+       font-size: 2.2em;
+       color: white;
+     }
+     .rainbow {
+       font-family: 'Over the Rainbow', cursive;
+       font-weight: 300;
+       font-size: 2.2em;
+       /*color: white;*/
+     }
+     .codystar {
+       font-family: 'Codystar', cursive;
+       font-weight: 300;
+       font-size: 4em;
+       color: purple;
+     }
+     .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+       color: #fff;
+       background-color: rgba(0,0,0,0.5) !important;
+     }
+     .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+       color: #fff;
+       background-color: rgba(0,0,0,1) !important;
+     }
+     .navbar-inverse .navbar-nav>li>a {
+       color: #fff;
+     }
+     .row {
+        margin-right: 0;
+      }
+      .ulmodal {
+        list-style: none;
+        background: rgba(255, 0, 0, 0.4);
+       }
+       .container {
+          padding-right: 0 !important;
+          padding-left: 15px;
+          margin-right: auto;
+          margin-left: auto;
+      }
+      
+      ul {
+        color: white !important;
+      }
+     footer {
+       min-height: 90px;
+       width: 100%;
+       padding: 20px;
+       color: #4AA32C;
+       bottom: -40px;
+       position: relative;
+       background-color: rgba(0, 0, 0, 0.8) !important;
+       border-color: rgba(0, 0, 0, 0.8) !important;
+     }
+     textarea {
+       resize: none;
+    }
+    .container-fluid {
+      padding-right: 0px;
+      padding-left: 0px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+    .crema {
+      background-color: #EBECE4;
+    }
+
+    .jumbotron {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        margin-top: 50px;
+        margin-bottom: 0px;
+        color: inherit;
+        background-color: #eee;
+    }
+
+    .btn-primary {
+      color: #fff;
+      background-color: #67C83D;
+      border-color: #67C83D;
+    }
