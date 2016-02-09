@@ -1,0 +1,37 @@
+
+/* couleur texte navbar */
+.navbar-default .navbar-nav > li > a {
+    color: #79c242;
+    }
+/* survol navbar */
+.navbar-default .navbar-nav > li > a:hover {
+    color: white;
+    background-color: #79c242;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    background-color: #79c242 ;
+    color: #484545;
+}
+
+/* arriere plan navbar */
+.gris {
+	background-color: #484545;
+	border-color: #7AC242; 
+}
+
+/* sous-menu */
+.navbar-default .navbar-nav > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > a:hover {
+    background-color: #79C242 ;
+    color: #484545;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+    background-color: #79c242;
+    color: white;
+}
+
+.dropdown-menu {
+	background-color: #79c242;
+	color: #484545;
+}
+
